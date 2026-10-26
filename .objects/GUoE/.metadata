@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1 - Search Results",
+  "Type": "App",
+  "Id": "GUoEgeahN0GIO_l_qYKaLg",
+  "Reference": "Jalrg-baqkm6uLWAJDOW6Q/GUoEgeahN0GIO_l_qYKaLg",
+  "Created": "2026-10-26T02:44:44.4322893Z",
+  "Updated": "2026-10-26T02:44:44.4322893Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
